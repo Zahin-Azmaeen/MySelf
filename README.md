@@ -57,25 +57,6 @@
 
 
 
-<!---
-
-
-| No | FileName | PDF |
-|----|----------|-----|
-| 1  | CV  | [Zahin_Azmaeen_CV (2).pdf](https://github.com/user-attachments/files/18063238/Zahin_Azmaeen_CV.2.pdf)    |
-| 2  | Resume  |  [Zahin_Azmaeen_Resume1.pdf](https://github.com/user-attachments/files/18063255/Zahin_Azmaeen_Resume1.pdf)   |
-| 3  | SEO CV  |  [Zahin Azmaeen Creative IT Digital Marketing Reume.pdf](https://github.com/user-attachments/files/18063271/Zahin.Azmaeen.Creative.IT.Digital.Marketing.Reume.pdf)   |
-| 4  | SSC  |  [SSC.pdf](https://github.com/user-attachments/files/18063303/SSC.pdf)   |
-| 5  | HSC  |  [HSC.pdf](https://github.com/user-attachments/files/18063314/HSC.pdf)   |
-| 6  | BSc  |  [BSc.pdf](https://github.com/user-attachments/files/18063322/BSc.pdf)   |
-| 7  | SSC HSC BSc  |  [Zahin_Azmaeen_Certificate.pdf](https://github.com/user-attachments/files/18063330/Zahin_Azmaeen_Certificate.pdf)   |
-| 8  | Passport  |  [Zahin Azmaeen Passport.pdf](https://github.com/user-attachments/files/18063341/Zahin.Azmaeen.Passport.pdf)   |
-| 9  | NID(F)  |  ![Zahin Azmaeen NID](https://github.com/user-attachments/assets/9cc46b2b-7f7b-4c16-a2c5-709d1505c1c6)   |
-| 10  | NID(B)  |  ![Zahin Azmaeen NID 2](https://github.com/user-attachments/assets/78ede6a8-c2cc-4b35-a5ef-6ab6beab9f95)   |
-| 11  | CCNA  |  ![ZAHIN_AZMAEEN_CCNA_CERTIFICATION](https://github.com/user-attachments/assets/87ca7747-89a9-4ee2-8617-6fdd43db5726)   |
-
---->
-
 
 
 
