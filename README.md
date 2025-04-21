@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm ZahinAzmaeen</h1>
 <h3 align="center">A passionate software engineer from Bangladesh</h3>
 
+
+## 🔗 CV
+[![Download My CV](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://drive.google.com/uc?export=download&id=1hye3h5lCGNa08q4lHESJdxMIxZZw4RrV)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zahin-azmaeen&label=Profile%20views&color=0e75b6&style=flat" alt="zahin-azmaeen" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zahin-azmaeen" alt="zahin-azmaeen" /></a> </p>
