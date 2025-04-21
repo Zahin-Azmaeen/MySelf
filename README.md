@@ -3,7 +3,7 @@
 
 
 ## 🔗 CV
-[![Download My CV](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://drive.google.com/uc?export=download&id=1hye3h5lCGNa08q4lHESJdxMIxZZw4RrV)
+[![Download My CV](https://img.shields.io/badge/download_my_cv-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://drive.google.com/uc?export=download&id=1hye3h5lCGNa08q4lHESJdxMIxZZw4RrV)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zahin-azmaeen&label=Profile%20views&color=0e75b6&style=flat" alt="zahin-azmaeen" /> </p>
 
